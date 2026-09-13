@@ -1,0 +1,37 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# AWS credentials
+.aws/
+credentials
+
+# Node.js
+node_modules/
+
+# CDK generated output
+cdk.out/
+dist/
+
+# AgentCore runtime/generated state
+agentcore/.cli/
+agentcore/.env.local
+agentcore/aws-targets.json
+deployed-state.json
+
+# Logs
+*.log
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
