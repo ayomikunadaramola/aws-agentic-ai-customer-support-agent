@@ -31,8 +31,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           python -m pip install pytest
-          python -m pip install bedrock-agentcore strands-agents strands-agents-tools nest-asyncio
-
+          python -m pip install bedrock-agentcore strands-agents strands-agents-tools nest-asyncio playwright
       - name: Run automated tests
         run: |
           python -m pytest tests/ -v
