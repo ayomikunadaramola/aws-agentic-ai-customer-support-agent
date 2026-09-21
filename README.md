@@ -1,4 +1,7 @@
-AWS Agentic AI Customer Support Agent
+# AWS Agentic AI Customer Support Agent
+
+[![Python Automated Tests](https://github.com/ayomikunadaramola/aws-agentic-ai-customer-support-agent/actions/workflows/tests.yml/badge.svg)](https://github.com/ayomikunadaramola/aws-agentic-ai-customer-support-agent/actions/workflows/tests.yml)
+
 An end-to-end AI customer support system built with Amazon Bedrock AgentCore, Strands Agents, Model Context Protocol (MCP), AWS Lambda, Amazon API Gateway, Amazon Bedrock Knowledge Bases, AgentCore Memory, AgentCore Code Interpreter, and AgentCore Browser.
 The project demonstrates how an agentic AI application can combine reasoning, external tools, retrieval-augmented generation, persistent memory, deterministic computation, and live web browsing to handle realistic customer-support workflows.
 ---
