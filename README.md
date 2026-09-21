@@ -546,9 +546,14 @@ Cloud Data Platforms
 Artificial Intelligence
 Agentic AI
 Generative AI
+
 AWS
 Python
 ---
 Disclaimer
 This repository is an educational and portfolio project created to demonstrate agentic AI engineering concepts and AWS implementation patterns.
 It is not an official Amazon Web Services application, service, or product.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
